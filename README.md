@@ -4,7 +4,7 @@ A transparent, always-on-top note-taking app for meetings.
 
 ## Download
 
-See [Releases](https://github.com/vinhnglx/seethrough-releases/releases) for the latest version.
+See [Releases](https://github.com/vinhnglx/seethrough-release/releases) for the latest version.
 
 ## Features
 
